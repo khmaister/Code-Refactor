@@ -33,11 +33,11 @@ body {
 }
 
 .header div ul {
-    list-style-type: upper-alpha;
+    list-style-type: none;
 }
 
 .header div ul li {
-    display: flex;
+    display: inline-flex;
     margin-left: 25px;
 }
 
